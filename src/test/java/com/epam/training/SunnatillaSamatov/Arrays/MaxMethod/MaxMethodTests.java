@@ -3,8 +3,6 @@ package com.epam.training.SunnatillaSamatov.Arrays.MaxMethod;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import java.util.OptionalInt;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class MaxMethodTests {
