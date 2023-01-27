@@ -35,11 +35,13 @@
       <version>${junit5.version}</version>
       <scope>test</scope>
     </dependency>
+
     <dependency>
       <groupId>com.github.stefanbirkner</groupId>
       <artifactId>system-lambda</artifactId>
       <version>1.2.0</version>
     </dependency>
+
     <dependency>
       <groupId>fr.inria.gforge.spoon</groupId>
       <artifactId>spoon-core</artifactId>
